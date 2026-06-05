@@ -182,10 +182,17 @@ const herik = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=bragaa10&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" />
+
+![SaaS Builder](https://img.shields.io/badge/🚀_SaaS_Builder-Stripe_%2B_Supabase_%2B_RBAC-a78bfa?style=for-the-badge&labelColor=0d1117)
+![AI Engineer](https://img.shields.io/badge/🤖_AI_Engineer-Claude_%2B_Gemini_%2B_Whisper-a78bfa?style=for-the-badge&labelColor=0d1117)
+![Full Stack](https://img.shields.io/badge/💻_Full_Stack-Next.js_%2B_PHP_%2B_Python-a78bfa?style=for-the-badge&labelColor=0d1117)
+![Accessibility](https://img.shields.io/badge/♿_Accessibility-Voice_AI_for_blind_users-a78bfa?style=for-the-badge&labelColor=0d1117)
+![Security](https://img.shields.io/badge/🔒_Security-RBAC_%2B_RLS_%2B_Rate_Limiting-a78bfa?style=for-the-badge&labelColor=0d1117)
+![Integrations](https://img.shields.io/badge/🌐_Integrations-GAM_%2B_Stripe_%2B_Slack_%2B_Teams-a78bfa?style=for-the-badge&labelColor=0d1117)
+
 </div>
 
 ---
