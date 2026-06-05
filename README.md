@@ -151,12 +151,25 @@ const herik = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bragaa10&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bragaa10&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+
+![Followers](https://img.shields.io/github/followers/bragaa10?style=for-the-badge&color=a78bfa&labelColor=0d1117&logo=github&logoColor=white&label=Followers)
+![Stars](https://img.shields.io/github/stars/bragaa10?style=for-the-badge&color=a78bfa&labelColor=0d1117&logo=github&logoColor=white&label=Total%20Stars)
+![Repos](https://img.shields.io/badge/Public%20Repos-View%20All-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bragaa10&theme=midnight-purple&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9" />
+
+![TypeScript](https://img.shields.io/badge/TypeScript-Expert-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-Advanced-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=bragaa10&theme=midnight-purple&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9" />
 </div>
 
 ---
