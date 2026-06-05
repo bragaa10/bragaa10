@@ -183,7 +183,7 @@ const herik = {
   <a href="https://github.com/bragaa10">
     <img src="https://img.shields.io/badge/GitHub-bragaa10-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/bragaa10">
+  <a href="https://www.linkedin.com/in/herik-braga-543623319">
     <img src="https://img.shields.io/badge/LinkedIn-Herik%20Braga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:bragawork01@gmail.com">
