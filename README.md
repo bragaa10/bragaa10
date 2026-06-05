@@ -12,7 +12,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About Me
 
 ```typescript
 const herik = {
@@ -84,67 +84,67 @@ const herik = {
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Featured Projects
 
 ### 🎴 TrocaStickers — Sticker Trading SaaS
-> Plataforma SaaS completa para colecionadores de cromos com geolocalização e matchmaking automático.
+> A full-featured SaaS platform for sticker collectors with real-time geolocation and automatic matchmaking.
 
 ![Next.js](https://img.shields.io/badge/Next.js%2016-000?style=flat-square&logo=nextdotjs)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
 
-- 🗺️ Mapa interativo com geolocalização de colecionadores em tempo real
-- ⚡ Algoritmo de matchmaking automático de cromos duplicados/em falta
-- 💬 Chat em tempo real nativo entre utilizadores
-- 💳 Plano Premium com Stripe + preços geodetectados (EUR/BRL)
-- 🛡️ Painel Admin com RBAC granular, banimento, suspensão e impersonação
+- 🗺️ Interactive map with real-time geolocation of nearby collectors
+- ⚡ Automatic matchmaking algorithm for duplicate/missing stickers
+- 💬 Native real-time chat between users
+- 💳 Premium plan with Stripe + geo-detected pricing (EUR/BRL)
+- 🛡️ Admin dashboard with granular RBAC, banning, suspension and impersonation
 
 ---
 
 ### 👁️ NetEye — AI Voice Web Navigator *(PAP 2025–2026)*
-> Assistente de navegação web por voz com IA, para utilizadores cegos e com deficiência visual.
+> A voice-controlled AI web navigation assistant for blind and visually impaired users.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
 
-- 🗣️ Wake word ("Ei NetEye") + VAD com `webrtcvad`
-- 🧠 Agente cognitivo Claude com Computer Vision para interpretar páginas
-- ⚡ STT offline com `faster-whisper` + dicionário fonético customizado
-- 🎙️ TTS com ElevenLabs (fallback local com `pyttsx3`)
-- 🌐 Dashboard Flask para gestão de perfis, histórico e favoritos
+- 🗣️ Wake word ("Ei NetEye") + Voice Activity Detection with `webrtcvad`
+- 🧠 Claude cognitive agent with Computer Vision to interpret web pages
+- ⚡ Offline STT with `faster-whisper` + custom phonetic dictionary
+- 🎙️ High-fidelity TTS with ElevenLabs (local `pyttsx3` fallback)
+- 🌐 Flask web dashboard for profile management, history and bookmarks
 
 ---
 
 ### 📢 Ad Management Portal — Campaign Lifecycle System
-> Sistema de gestão completo do ciclo de vida de campanhas publicitárias integrado ao Google Ad Manager.
+> A robust campaign lifecycle management system fully integrated with Google Ad Manager.
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Yii2](https://img.shields.io/badge/Yii2-blue?style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-- 🔄 Máquina de estados robusta (Draft → Submitted → In Review → Live → Completed)
-- 🤖 Cron job diário para automação de início/fim de voo de campanhas
-- 📦 Sincronização assíncrona com Google Ad Manager via sistema de filas
-- 🔔 Notificações multicanal: Email HTML, Slack e Microsoft Teams
-- 🧪 Testes automatizados com Codeception
+- 🔄 Robust state machine (Draft → Submitted → In Review → Live → Completed)
+- 🤖 Daily cron job for automated campaign flight start/end
+- 📦 Async Google Ad Manager sync via background queue system
+- 🔔 Multi-channel notifications: HTML Email, Slack and Microsoft Teams
+- 🧪 Automated testing with Codeception
 
 ---
 
 ### 🔗 EncurtaLink — URL Shortener & Analytics Platform
-> Plataforma profissional de encurtamento de URLs com analytics avançados e assistente IA.
+> A professional URL shortening platform with advanced analytics and an AI assistant.
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Yii2](https://img.shields.io/badge/Yii2-blue?style=flat-square)
 ![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
 
-- 📊 Analytics em tempo real: cliques, geolocalização, browser/OS, fontes de tráfego
-- 🤖 Assistente IA "Linky" powered by Google Gemini
-- 🖼️ Geração de QR Codes dinâmicos em SVG/PNG
-- 📂 Gestão de campanhas com exportação CSV e relatórios PDF
-- ⚡ Índices de BD otimizados para milhões de registos de redirecionamento
+- 📊 Real-time analytics: clicks, geolocation, browser/OS, traffic sources
+- 🤖 AI assistant "Linky" powered by Google Gemini
+- 🖼️ Dynamic QR code generation in SVG/PNG
+- 📂 Campaign management with CSV export and PDF reports
+- ⚡ Optimized DB indexes for millions of redirect records
 
 ---
 
@@ -177,7 +177,7 @@ const herik = {
 
 ---
 
-## 🌐 Contacto
+## 🌐 Contact
 
 <div align="center">
   <a href="https://github.com/bragaa10">
@@ -187,7 +187,7 @@ const herik = {
     <img src="https://img.shields.io/badge/LinkedIn-Herik%20Braga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:bragawork01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-bragawork01@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
@@ -199,5 +199,5 @@ const herik = {
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bragaa10&color=7c3aed&style=flat-square&label=Visualizações+do+perfil" />
+  <img src="https://komarev.com/ghpvc/?username=bragaa10&color=7c3aed&style=flat-square&label=Profile+Views" />
 </div>
